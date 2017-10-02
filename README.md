@@ -52,9 +52,9 @@ Criar um gerenciamento aonde seja possível Criar, Listar, Editar e Visualizar u
 
 # Observações:
 
-- Não tenha pressa! O que será avaliado é a qualidade do código não a velocidade de desenvolvimento. Portanto, qualquer generator / scaffolding torna-se desnecessário.
+- Não tenha pressa! O que será avaliado é a qualidade do código não a velocidade de desenvolvimento. Portanto, qualquer generator / scaffolding de CRUD, MVC, etc, torna-se desnecessário. 
 - Se não for possível terminar todas as funcionalidades, não tem problema.
-- Não precisa ser bonito ou ter um UX excelente.  
+- Não precisa ser bonito ou ter um UX excelente. Você pode optar por templates para o frontend, se assim desejar.
 - Não precisa ser complexo, com varias lib’s e etc. O legal é usar o necessário para ter um código de qualidade e de fácil evolução. 
 - Lembrando código de qualidade, você pode e deve fazer o que achar necessário para isso, mesmo que não esteja listado aqui. 
 - 
